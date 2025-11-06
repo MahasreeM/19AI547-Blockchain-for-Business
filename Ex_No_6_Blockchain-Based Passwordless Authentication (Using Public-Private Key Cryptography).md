@@ -1,3 +1,5 @@
+### REG.NO:212224110035
+
 # Experiment 6: Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography)
 # Aim:
 To implement a secure passwordless authentication system using public-private key cryptography on Ethereum. This prevents phishing and password leaks.
@@ -103,6 +105,9 @@ Users sign a challenge with their private key for authentication.
 The smart contract verifies signatures to confirm identity.
 
 
+<img width="441" height="988" alt="block chain" src="https://github.com/user-attachments/assets/0413168d-c6d1-4086-a554-b09748aa1fc0" />
+
+<img width="1435" height="998" alt="Screenshot 2025-11-06 134108" src="https://github.com/user-attachments/assets/2595bb48-ecf6-4fb8-b813-ce51fae7528e" />
 
 # High-Level Overview:
 Eliminates password hacks & phishing attacks.
@@ -114,3 +119,5 @@ Uses Ethereum's built-in cryptographic functions.
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+
+Thus the implemented program was successfully verified.
